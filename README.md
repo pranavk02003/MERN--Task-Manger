@@ -1,6 +1,6 @@
-Frontend deployed link:https://mern-task-manger.vercel.app/login
+Frontend deployed link:https://mern-task-manger.vercel.app
 
-Backend deployed link:
+Backend deployed link:https://mern-task-manger.onrender.com
 
 
 
