@@ -1,4 +1,6 @@
+Frontend deployed link:https://mern-task-manger.vercel.app/login
 
+Backend deployed link:
 
 
 
